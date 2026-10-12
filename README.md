@@ -16,11 +16,9 @@
 
 ### About Me
 
-- AI Engineer at [Company], building [what you ship, e.g. LLM-powered workflows, internal AI tools, ML pipelines].
-- Day to day: [e.g. Python, LLM APIs, RAG, agents, evaluation, deployment].
+- AI Engineer at Mega Alimentos, building LLM-powered workflows, internal AI tools, ML pipelines.
+- Day to day: Python, LLM APIs, RAG, agents, evaluation, deployment.
 - Background in low-level systems and GPU programming (C++, CUDA), which shapes how I think about performance and cost.
-- Ask me about: [2-3 topics, e.g. prompt/eval design, integrating models into existing systems, GPU performance].
-- Best way to reach me: [Teams / Slack handle or work email].
 
 ---
 
